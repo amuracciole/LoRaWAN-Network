@@ -4,7 +4,7 @@ Trabajo final de grado para obtención de título en Ingeniero el Telecomunicaci
 
 AUTORES: Juan Collazo, Mauro Gonzalez y Andrés Muracciole
 
-El trabajo consiste en el estudio del protocolo de red LoRaWAN para luego implementar una red a partir de un gateway RAK 831 y módulos de comunicacion propios fabricados con Arduino Pro Mini y módulos LoRa RFM95W.
+El [trabajo](https://github.com/amuracciole/LoRaWAN_Network/blob/master/Tesis_Collazo_Gonzalez_Muracciole.pdf) consiste en el estudio del protocolo de red LoRaWAN para luego implementar una red a partir de un gateway RAK 831 y módulos de comunicacion propios fabricados con Arduino Pro Mini y módulos LoRa RFM95W. El código se encuentra [aquí](https://github.com/amuracciole/LoRaWAN_Network/blob/master/LoRaWAN_Code.ino).
 El servidor de red y aplicaciones utilizado en dicho trabajo fue TTN.
 
 ![LoRaWAN](https://github.com/amuracciole/LoRaWAN_Network/blob/master/LoRaWAN.jpg)
@@ -37,7 +37,17 @@ Pensado para utilizarse con el sensor BH1750. Esta función envia el nivel de lu
 
 ## LIBRERIAS
 
-Se adjuntan las librerías de Arduino utilizadas.
+Se adjuntan las librerías de Arduino utilizadas o de interés:
+
+[AdafruitMaster](https://github.com/amuracciole/LoRaWAN_Network/blob/master/Adafruit_Sensor-master-20200422T151704Z-001.zip)
+
+[BH1750FVI](https://github.com/amuracciole/LoRaWAN_Network/blob/master/BH1750FVI-master-20200421T232901Z-001.zip)
+
+[I2C](https://github.com/amuracciole/LoRaWAN_Network/blob/master/I2C-Sensor-Lib_iLib-20200421T232914Z-001.zip)
+
+[LowPowerMaster](https://github.com/amuracciole/LoRaWAN_Network/blob/master/Low-Power-master-20200422T151701Z-001.zip)
+
+[LMICMaster](https://github.com/amuracciole/LoRaWAN_Network/blob/master/arduino-lmic-master-20200421T232840Z-001.zip)
 
 ## PCB
 
